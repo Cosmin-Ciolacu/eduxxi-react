@@ -1,0 +1,19 @@
+.title_container {
+  width: 100%;
+  height: 60px;
+  background: #505763;
+  color: white;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.course {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.homework .custom-file-input, .homework .custom-file-label {
+  width: 100%!important;
+}

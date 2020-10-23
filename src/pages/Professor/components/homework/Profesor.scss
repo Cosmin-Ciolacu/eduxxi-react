@@ -1,0 +1,37 @@
+.grey_title {
+  color: #686f7a;
+  font-size: 18px;
+}
+
+.progress-line {
+  height: 6px;
+  background: #8a92a3;
+  box-sizing: content-box;
+  border-radius: 0 3px 3px 0;
+  padding-right: 3px;
+  transition: 0.6s ease-out;
+  margin-left: -15px;
+}
+
+.custom-file {
+  width: 90% !important;
+}
+
+.custom-file-input,
+.custom-file-label {
+  width: 50% !important;
+}
+
+.custom-file-label {
+  margin: 0 auto;
+}
+
+.questions_container {
+  .MuiFormControl-root {
+    width: 100% !important;
+    .MuiInput-root,
+    .MuiFormLabel-root {
+      width: 90% !important;
+    }
+  }
+}

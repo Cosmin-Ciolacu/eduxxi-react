@@ -1,0 +1,32 @@
+button {
+  &:focus, &:active {
+    outline: none!important;
+  }
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: white!important;
+  text-decoration: none;
+  &:hover {
+    color: white!important;
+    text-decoration: none!important;
+  }
+}
+
+
+.container {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
