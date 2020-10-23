@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eduxxi-react/static/css/main.2797721b.chunk.css",
+    "main.js": "/eduxxi-react/static/js/main.a3bfa57c.chunk.js",
+    "main.js.map": "/eduxxi-react/static/js/main.a3bfa57c.chunk.js.map",
+    "runtime-main.js": "/eduxxi-react/static/js/runtime-main.53129e8f.js",
+    "runtime-main.js.map": "/eduxxi-react/static/js/runtime-main.53129e8f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/eduxxi-react/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.35155f76.chunk.js": "/eduxxi-react/static/js/2.35155f76.chunk.js",
+    "static/js/2.35155f76.chunk.js.map": "/eduxxi-react/static/js/2.35155f76.chunk.js.map",
+    "index.html": "/eduxxi-react/index.html",
+    "precache-manifest.ab7fabcb450c1ac95992127d9549c20d.js": "/eduxxi-react/precache-manifest.ab7fabcb450c1ac95992127d9549c20d.js",
+    "service-worker.js": "/eduxxi-react/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/eduxxi-react/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.2797721b.chunk.css.map": "/eduxxi-react/static/css/main.2797721b.chunk.css.map",
+    "static/js/2.35155f76.chunk.js.LICENSE.txt": "/eduxxi-react/static/js/2.35155f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53129e8f.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.35155f76.chunk.js",
+    "static/css/main.2797721b.chunk.css",
+    "static/js/main.a3bfa57c.chunk.js"
+  ]
+}
